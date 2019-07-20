@@ -1,0 +1,48 @@
+#atm-header {
+    background-color: #563d7c;
+    padding: 40px 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color:#fff;
+}
+
+#main-wrapper {
+    background-color: #eeeeee;
+    margin-top:10px;
+    padding:10px;
+    padding-bottom:20px;
+
+}
+
+.formPanel {
+    background-color: #fff;
+    padding:10px;
+}
+.formPanel h3{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top:20px;
+}
+
+.formPanel input {
+    text-align: right; 
+}
+
+#notesInfo {
+    display: none;
+}
+
+#notesInfoMsg {
+
+    text-align: center;
+    line-height: 1;
+    padding-top: 50px;
+}
+
+.noteCountlist {
+    list-style-type: none;  
+}
+.noteCountlist li {
+    padding:3px 10px;
+    border-bottom: 1px solid #999;
+}
